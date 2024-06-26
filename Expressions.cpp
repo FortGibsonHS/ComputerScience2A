@@ -19,9 +19,9 @@ int main(void) {
 	std::cin >> length;
 	std::cin >> width;
 
-   /* Your code goes here */
-   
-   std::cout << "Volume: " << boxVolume;
+	/* Your code goes here */
+
+	std::cout << "Volume: " << boxVolume;
 
    return 0;
 }
